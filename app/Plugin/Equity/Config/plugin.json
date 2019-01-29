@@ -1,0 +1,14 @@
+{
+	"name" : "Equity",
+	"description" : "By enabling this, the users can invest amount on projects. i.e., the amount will captured or refunded according to the funding method selected by the entrepreneur, after the project reached end date/goal. Later investor get shares for the invested amount. ",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"settings" : "true",
+	"parent": "1.Modules.Children",
+	"icon" : "equity-s",
+	"disable" : 1,
+	"delete" : 1,
+	"module_id": "s179",
+	"module_hash": "7585fef7475ae5f445430dc1323d005b"
+}

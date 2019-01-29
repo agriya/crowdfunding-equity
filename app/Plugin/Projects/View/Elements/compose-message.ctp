@@ -1,0 +1,2 @@
+<?php
+$this->requestAction(array('controller' => 'messages', 'action' => 'compose', $message_id, 'reply', 'user' => $user, 'project_id' => $project_id, 'reply_type' => 'quickreply', 'root' => $root, 'message_type' => $message_type, 'redirect_username' => $redirect_username, 'm_path' => $m_path, 'is_activity' => true), array('return')); ?>

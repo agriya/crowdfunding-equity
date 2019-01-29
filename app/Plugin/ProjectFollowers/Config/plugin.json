@@ -1,0 +1,18 @@
+{
+	"name" : "Project Followers",
+	"description" : "By enabling this, users can follow any projects and they will get notified about status changes in followed projects.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"parent": "3.Plugins For All Modules.Children.Projects.Children",
+	"dependencies": {
+		"plugins" : {
+			"Projects" : "Projects"
+		}
+	},
+	"icon" : "group",
+	"disable" : 1,
+	"delete" : 1,
+	"module_id": "",
+	"module_hash": ""
+}

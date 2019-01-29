@@ -1,0 +1,14 @@
+{
+	"name" : "Insights",
+	"description" : "By enabling this, site admin and project owners can see exclusive statistics display over the projects.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"parent": "3.Plugins For All Modules.Children.Growth Hacking.Children",
+	"subplugin" : "",
+	"icon" : "bar-chart",
+	"disable" : 1,
+	"delete" : 1,
+	"module_id": "590",
+	"module_hash": "a9f1d7c42a5ce82838b8c88e73c448a8"
+}

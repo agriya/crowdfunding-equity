@@ -1,0 +1,14 @@
+{
+	"name" : "Default",
+	"description" : "Default Theme",
+	"screenshot" : "screenshot.png",
+
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"menus" : [
+		"footer1",
+		"footer2",
+		"footer3"
+	]
+}

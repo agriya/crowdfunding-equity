@@ -1,0 +1,333 @@
+---
+affiliate.commission_holding_period: 0
+affiliate.commission_on_every_donate: 1
+affiliate.commission_on_every_equity: 5
+affiliate.commission_on_every_lend: 5
+affiliate.commission_on_every_pledge: 1
+affiliate.commission_on_every_project_listing: 1
+affiliate.payment_threshold_for_threshold_limit_reach: 1
+affiliate.referral_cookie_expire_time: 1
+affiliate.site_commission_amount: 1
+affiliate.site_commission_type: amount
+angellist.client_id: 6b67626cc2a420c9da1119286cc0fc52
+angellist.client_secret: e1695a0c9206efdae7be3243be40016b
+angellist.is_enabled_angellist_connect: 0
+barcode.height: 120
+barcode.is_barcode_enabled: 1
+barcode.width: 120
+captcha.challenge_key: hcLYxij3UFMbdLJIPYN0RIWT8culUqnM
+captcha.hash_key: sxpdzUMJ1yhSS-64tzM0rrDoW3UjKNG0
+captcha.verification_key: dX.D8IbDngnERZbHJp9x97TNpaepv2Ic
+cdn.css: 
+cdn.images: 
+cdn.is_cdn_enabled: 0
+cdn.js: 
+cloudflare.email: 
+cloudflare.is_cloudflare_enabled: 0
+cloudflare.token: 
+EmailTemplate.admin_email: productdemo.admin+contact+crowdfunding@gmail.com
+EmailTemplate.from_email: productdemo.admin+noreply+crowdfunding@gmail.com
+EmailTemplate.no_reply_email: productdemo.admin+noreply+crowdfunding@gmail.com
+EmailTemplate.reply_to_email: 
+equity.amount_per_share: 20
+equity.max_share_purchase_per_user: 100
+equity.min_share_purchase_per_user: 1
+facebook.app_id: 229285210528000
+facebook.fb_access_token: >
+    AAADQiJZBGmQABAMsIzUR2w4qLYlKnhR24N1dTHUhWd6oz59fKdmWD8h9XyZCIJ1ZBQ8e51JnzFLmFsMVs1BDX6hDFnI9R5Dl9N0j9ZBCAQZDZD
+facebook.fb_secrect_key: 162fa11ced9c565e643574c9b9fc91dc
+facebook.fb_user_id: 100000235263789
+facebook.is_enabled_facebook_connect: 1
+facebook.page_id: 464629930229988
+facebook.site_facebook_url: https://www.facebook.com/pages/SFPlatform/464629930229988
+google_analytics.access_token: 
+google_analytics.profile_id: 63232568
+google.consumer_key: 1061226080208.apps.googleusercontent.com
+google.consumer_secret: 5dUnvSsVNnLmodPW41Fjn3F5
+google.is_enabled_google_connect: 1
+google.translation_api_key: 
+googleplus.consumer_key: >
+    1003343503665-119a625gmmfbraq3ks4c3pdu8kanq18m.apps.googleusercontent.com
+googleplus.consumer_secret: rEx-AHnMMczqmXbAscBA61Ym
+googleplus.is_enabled_googleplus_connect: 1
+Hook.bootstraps: >
+    Projects,ProjectFlags,ProjectFollowers,ProjectUpdates,ProjectRewards,Insights,IntegratedGoogleAnalytics,JobsAct,SocialMarketing,SecurityQuestions,LaunchModes,Translation,Equity,Wallet,Withdrawals,MobileApp,Affiliates,Idea,SeisScheme
+HtmlCache.is_htmlcache_enabled: 0
+insights.is_enable_public_stats: 1
+invite.facebook: 'Check out this website ##SITE_NAME## ##REFERRAL_URL##'
+invite.twitter: 'Check out this website ##SITE_NAME## ##REFERRAL_URL##'
+is_enable_to_show_blog_link: 1
+is_page_speed_enabled: 1
+lend.default_terms: 12
+lend.late_fee: 10
+lend.repayment_notification_send_before_days: 3
+lend.total_arrear_count_for_default: 4
+linkedin.consumer_key: 9wb2yhmlvt9n
+linkedin.consumer_secret: T3jL7EI0qJ5bfoD6
+linkedin.is_enabled_linkedin_connect: 1
+mail.is_smtp_enabled: 0
+mail.smtp_host: 
+mail.smtp_password: 
+mail.smtp_port: 465
+mail.smtp_username: 
+maximum_project_expiry_day: 365
+Memcached.is_memcached_enabled: 0
+Memcached.servers: 
+messages.content_length: 50
+messages.is_allow_send_messsage: 1
+messages.is_send_email_on_new_message: 1
+messages.thread_max_depth: 3
+meta.description: >
+    Crowdfunding helps you develop different clone in a
+    crowdfunding fashion
+meta.keywords: >
+    agriya, crowdfund, crowdfunding, kickstarter clone,
+    fundbreak clone, thepoint clone, Sponsume clone, RocketHub
+    clone
+openid.is_enabled_openid_connect: 0
+pre_launch.bg_image: 
+pre_launch.bg_image_stretch_type : Stretch
+Project.almost_funded_percentage: 50
+project.alt_name_for_backer_past_tense: backed
+project.alt_name_for_backer_past_tense_caps: Backed
+project.alt_name_for_backer_plural_caps: Backers
+project.alt_name_for_backer_plural_small: backers
+project.alt_name_for_backer_present_continuous: backing
+project.alt_name_for_backer_singular_caps: Backer
+project.alt_name_for_backer_singular_small: backer
+project.alt_name_for_donate_past_tense_caps: Donated
+project.alt_name_for_donate_past_tense_small: donated
+project.alt_name_for_donate_plural_caps: Donates
+project.alt_name_for_donate_plural_small: donates
+project.alt_name_for_donate_present_continuous_caps: Donating
+project.alt_name_for_donate_present_continuous_plural_caps: Donations
+project.alt_name_for_donate_present_continuous_small: donating
+project.alt_name_for_donate_project_owner_singular_caps: Project Owner
+project.alt_name_for_donate_project_owner_singular_small: project owner
+project.alt_name_for_donate_singular_caps: Donate
+project.alt_name_for_donate_singular_small: donate
+project.alt_name_for_donor_past_tense: donated
+project.alt_name_for_donor_past_tense_caps: Donated
+project.alt_name_for_donor_plural_caps: Donors
+project.alt_name_for_donor_plural_small: donors
+project.alt_name_for_donor_present_continuous: donating
+project.alt_name_for_donor_singular_caps: Donor
+project.alt_name_for_donor_singular_small: donor
+project.alt_name_for_equity_past_tense_caps: Invested
+project.alt_name_for_equity_past_tense_small: invested
+project.alt_name_for_equity_plural_caps: Equities
+project.alt_name_for_equity_plural_small: equities
+project.alt_name_for_equity_present_continuous_caps: Investing
+project.alt_name_for_equity_present_continuous_small: investing
+project.alt_name_for_equity_project_owner_singular_caps: Entrepreneur
+project.alt_name_for_equity_project_owner_singular_small: entrepreneur
+project.alt_name_for_equity_singular_caps: Equity
+project.alt_name_for_equity_singular_small: equity
+project.alt_name_for_investor_past_tense: invested
+project.alt_name_for_investor_past_tense_caps: Invested
+project.alt_name_for_investor_plural_caps: Investors
+project.alt_name_for_investor_plural_small: investors
+project.alt_name_for_investor_present_continuous: investing
+project.alt_name_for_investor_singular_caps: Investor
+project.alt_name_for_investor_singular_small: investor
+project.alt_name_for_lend_past_tense_caps: Lent
+project.alt_name_for_lend_past_tense_small: lent
+project.alt_name_for_lend_plural_caps: Lends
+project.alt_name_for_lend_plural_small: lends
+project.alt_name_for_lend_present_continuous_caps: Lending
+project.alt_name_for_lend_present_continuous_small: lending
+project.alt_name_for_lend_project_owner_singular_caps: Borrower
+project.alt_name_for_lend_project_owner_singular_small: borrower
+project.alt_name_for_lend_singular_caps: Lend
+project.alt_name_for_lend_singular_small: lend
+project.alt_name_for_lender_past_tense: lent
+project.alt_name_for_lender_past_tense_caps: Lent
+project.alt_name_for_lender_plural_caps: Lenders
+project.alt_name_for_lender_plural_small: lenders
+project.alt_name_for_lender_present_continuous: lending
+project.alt_name_for_lender_singular_caps: Lender
+project.alt_name_for_lender_singular_small: lender
+project.alt_name_for_pledge_past_tense_caps: Pledged
+project.alt_name_for_pledge_past_tense_small: pledged
+project.alt_name_for_pledge_plural_caps: Pledges
+project.alt_name_for_pledge_plural_small: pledges
+project.alt_name_for_pledge_present_continuous_caps: Pledging
+project.alt_name_for_pledge_present_continuous_small: pledging
+project.alt_name_for_pledge_project_owner_singular_caps: Project Owner
+project.alt_name_for_pledge_project_owner_singular_small: project owner
+project.alt_name_for_pledge_singular_caps: Pledge
+project.alt_name_for_pledge_singular_small: pledge
+project.alt_name_for_project_plural_caps: Projects
+project.alt_name_for_project_plural_small: projects
+project.alt_name_for_project_singular_caps: Project
+project.alt_name_for_project_singular_small: project
+project.alt_name_for_reward_plural_caps: Rewards
+project.alt_name_for_reward_plural_small: rewards
+project.alt_name_for_reward_singular_caps: Reward
+project.alt_name_for_reward_singular_small: reward
+Project.auto_suspend_message_on_system_flag: 1
+Project.auto_suspend_project_on_system_flag: 1
+Project.auto_suspend_update_comment_on_system_flag: 1
+Project.auto_suspend_update_on_system_flag: 1
+Project.comment_code: '<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=##APPID##&amp;xfbml=1"></script><fb:comments href="##URL##" num_posts="10" width="500"></fb:comments>'
+Project.fund_commission_percentage: 10
+Project.fund_commission_percentage_not_reached_needed_amount: 8
+Project.is_allow_fund_cancel_by_funder: 1
+Project.is_allow_fund_cancel_by_owner: 1
+Project.is_allow_fund_capture_flagged_projects: 1
+Project.is_allow_owner_fund_own_project: 0
+Project.is_allow_owner_project_cancel: 1
+Project.is_allow_owners_to_fund_other_projects: 1
+Project.is_allow_project_owner_to_edit_project_in_open_status: 1
+Project.is_allow_user_to_set_fixed_amount_pledge: 1
+Project.is_allow_user_to_set_minimum_amount_pledge: 1
+Project.is_allow_user_to_set_multiple_amount_pledge: 1
+Project.is_allow_user_to_set_overfunding: 1
+Project.is_allow_user_to_set_suggested_pledge: 1
+Project.is_enable_cancel_pledge_activities: 1
+Project.is_fb_project_comment_enabled: 0
+Project.is_fixed_amount_pledge_enabled: 0
+Project.is_multiple_amount_pledge_enabled: 0
+Project.is_pledge_default_type: Any
+Project.is_pledge_minimum_amount_enabled: 0
+Project.is_project_owner_select_funding_method: 1
+Project.is_project_reward_optional: 1
+Project.is_show_backers_amount_for_guest_users: 1
+Project.is_show_other_backers_amount_for_backers: 1
+Project.is_suggested_pledge_enabled: 0
+Project.listing_fee: 10
+Project.maximum_amount: 100000000000
+Project.min_short_description_length: 50
+Project.minimum_amount: 5
+Project.minimum_days_before_fund_cancel: 0
+Project.payment_gateway_fee_id: Site
+Project.post_project_on_facebook: 1
+Project.post_project_on_twitter: 1
+Project.project_fee_payeer: Project Owner
+Project.project_fund_capture: Fixed Funding
+Project.project_listing_fee_type: amount
+Project.project_short_description_length: 250
+project.trending_project_count: 0
+RedisSession.hostname: 
+RedisSession.is_redis_session_enabled: 0
+RedisSession.port: 
+s3.aws_access_key: 
+s3.aws_secret_key: 
+s3.bucket_name: 
+s3.end_point: 
+s3.is_cname_enabled: 0
+s3.is_enabled: 0
+s3.keep_copy_in_local: 0
+s3.upload_static_content_enabled: 0
+share.facebook: 'Check out this website ##SITE_NAME## ##SHARE_URL##'
+share.twitter: 'Check out this project ##PROJECT_NAME## ##SHARE_URL##'
+site.currency: $
+site.currency_code: USD
+site.currency_symbol_place: left
+site.date.format: %b %d, %Y
+site.date.tooltip: %b %d, %Y %I:%M %p
+site.datetime.format: %b %d, %Y %I:%M %p
+site.datetime.tooltip: %B %d, %Y %I:%M:%S %p (%A) %Z
+site.datetimehighlight.tooltip: %B %d, %Y %I:%M:%S %p (%A) %Z
+site.duration_to_invite: Daily
+site.embed_code: '<script type="text/javascript" language="JavaScript">var id=1011;</script><script type="text/javascript" language="JavaScript" src="http://www.funny-videos.co.uk/emb/embedvideo.js"></script>'
+site.iphone_app_key: 
+site.is_ssl_enabled: 0
+site.language: en
+site.last_invited_date: 
+site.launch_mode: Launch
+site.look_up_url: http://whois.sc/
+site.maintenance_mode: 0
+site.name: Crowdfunding
+site.no_of_users_to_invite: 50
+site.no_of_users_to_invite_per_time: 50
+site.pre_launch_content: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Proin blandit nisi non nisl fermentum sit amet volutpat eros
+    tincidunt. Sed tempor blandit gravida.
+site.private_beta_content: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Proin blandit nisi non nisl fermentum sit amet volutpat eros
+    tincidunt. Sed tempor blandit gravida.
+site.robots: 
+site.time.format: %I:%M %p
+site.time.tooltip: %B %d, %Y (%A) %Z
+site.tracking_script: |
+    <script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-18572079-3']); _gaq.push(['_setDomainName', '.dev.agriya.com']); _gaq.push(['_setAllowAnchor', true]); _gaq.push(['_trackPageview']); _gaq.push(function() { href = window.location.search; href.replace(/(utm_source|utm_medium|utm_campaign|utm_term|utm_content)+=[^\\&]*/g, '').replace(/\\&+/g, '&').replace(/\\?\\&/g, '?').replace(/(\\?|\\&)$/g, ''); if (history.replaceState) history.replaceState(null, '', location.pathname + href + location.hash);}); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); </script>
+site.version: v2.0b3
+social_networking.post_project_on_user_facebook: 1
+social_networking.post_project_on_user_twitter: 1
+suspicious_detector.is_enabled: 1
+suspicious_detector.suspiciouswords: |
+    stupid
+    fool
+    \w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*([,;]\s*\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*)*
+    (?:\+?1)?[-\/. ]?[2-9][0-8][0-9][-\/. ]?[2-9][0-9]{2}[-\/. ]?[0-9]{4}
+    ^((\+\d{1,3}(-| )?\(?\d\)?(-| )?\d{1,3})|(\(?\d{2,3}\)?))(-| )?(\d{3,4})(-| )?(\d{4})(( x| ext)\d{1,5}){0,1}$
+    ^(?:\+\d{1,3}|0\d{1,3}|00\d{1,2})?(?:\s?\(\d+\))?(?:[-\/\s.]|\d)+
+system.captcha_type: Normal
+thumb_size.big_thumb.height: 200
+thumb_size.big_thumb.width: 468
+thumb_size.iphone_big_thumb.height: 102
+thumb_size.iphone_big_thumb.width: 160
+thumb_size.iphone_small_thumb.height: 60
+thumb_size.iphone_small_thumb.width: 100
+thumb_size.medium_big_thumb.height: 173
+thumb_size.medium_big_thumb.width: 235
+thumb_size.medium_thumb.height: 50
+thumb_size.medium_thumb.width: 50
+thumb_size.micro_thumb.height: 31
+thumb_size.micro_thumb.width: 31
+thumb_size.normal_thumb.height: 70
+thumb_size.normal_thumb.width: 70
+thumb_size.project_big_thumb.height: 200
+thumb_size.project_big_thumb.width: 468
+thumb_size.project_medium_thumb.height: 200
+thumb_size.project_medium_thumb.width: 368
+thumb_size.project_small_thumb.height: 170
+thumb_size.project_small_thumb.width: 268
+thumb_size.project_very_big_thumb.height: 600
+thumb_size.project_very_big_thumb.width: 1920
+thumb_size.small_big_thumb.height: 150
+thumb_size.small_big_thumb.width: 150
+thumb_size.user_thumb.height: 83
+thumb_size.user_thumb.width: 83
+thumb_size.very_big_thumb.height: 526
+thumb_size.very_big_thumb.width: 702
+thumb_size.very_small_big_thumb.height: 126
+thumb_size.very_small_big_thumb.width: 170
+twitter.consumer_key: nEeOkK891kEHsKECR7eStg
+twitter.consumer_secret: u8td2G1ofZZlrrjAyKqMQnwqUaxupN0xtNCuP1Nc
+twitter.is_enabled_twitter_connect: 1
+twitter.site_user_access_key: wYKgYCZmAlIZk7lpSi1LXWY1FDYuyAXjlROxWxO9SA
+twitter.site_user_access_token: 75254727-MiPgVVHcAOJd0AX8IQj4Y5quvVUHxrBknq1M7fKQP
+twitter.username: agriyacrowdfund
+user.is_admin_activate_after_register: 0
+user.is_admin_mail_after_register: 1
+user.is_allow_user_to_switch_language: 1
+user.is_auto_login_after_register: 0
+user.is_email_verification_for_register: 1
+user.is_enable_forgot_password_captcha: 1
+user.is_logout_after_change_password: 0
+user.is_welcome_mail_after_register: 1
+user.maximum_withdraw_amount: 100
+user.minimum_withdraw_amount: 2
+user.remember_me_cookie_prefix: sfp
+user.remember_me_maxlife: 5
+user.remember_me_maxlogins: 5
+user.remember_me_pages: projects/add
+user.remember_me_secure: Only the listed pages
+User.signup_fee: 0
+User.signup_fee_payeer: Site
+user.using_to_login: username
+wallet.max_wallet_amount: 200000000
+wallet.min_wallet_amount: 10
+wallet.wallet_fee_payer: User
+widget.footer_script: '<img src="http://placehold.it/728X90" alt ="728X90" width="728" height="90"/>'
+widget.home_script: 
+widget.project_script: 
+widget.user_script: '<img src="http://placehold.it/728X90" alt ="728X90" width="728" height="90"/>'
+yahoo.consumer_key: >
+    dj0yJmk9OEtpZlVmNnBFd1ZNJmQ9WVdrOVpUbEliMXBQTTJVbWNHbzlNVFl5TkRRME1qWTJNZy0tJnM9Y29uc3VtZXJzZWNyZXQmeD0yYg--
+yahoo.consumer_secret: 6e2a22e7d095bff7807dc2344eb5a309a301c0d3
+yahoo.is_enabled_yahoo_connect: 1

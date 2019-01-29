@@ -1,0 +1,1 @@
+<?php echo $this->requestAction(array('controller' => 'project_ratings', 'action' => 'index', 'project_id' => $project_id, 'type' => 'votes', 'admin' => false), array('return'));?>

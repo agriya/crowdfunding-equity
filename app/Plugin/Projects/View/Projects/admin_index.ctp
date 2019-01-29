@@ -1,0 +1,1 @@
+ <?php echo $this->element('projects_admin_index', array('cache' => array('config' => 'sec', 'key' => $this->Auth->user('id'))), array('plugin'=>$project_type['ProjectType']['name'])); ?>

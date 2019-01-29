@@ -1,0 +1,1 @@
+<?php echo $this->requestAction(array('controller' => 'equities', 'action' => 'myfunds'), array('return')); ?>

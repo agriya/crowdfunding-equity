@@ -1,0 +1,1 @@
+<?php echo $this->requestAction(array('controller' => 'blog_comments', 'action' => 'add', 'blog_id' => $blog_id, 'display' => $display), array('return'));?>

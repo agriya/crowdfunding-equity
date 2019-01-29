@@ -1,0 +1,4 @@
+<?php
+  $average_rating = (!empty($project['Project']['project_rating_count'])) ? ($project['Project']['total_ratings']/$project['Project']['project_rating_count']) : 0;
+  echo $this->element('_star-rating', array('project_id' => $project['Project']['id'], 'is_view'=>0, 'rating' => $rate, 'total_rating' => $project['Project']['total_ratings'], 'rating_count' => $project['Project']['project_rating_count'], 'current_rating' => $average_rating, 'canRate' => false)) . '##' . $this->Html->cInt($project['Project']['total_ratings'], false) . '##' . $this->Html->cFloat($project['Project']['total_ratings'], false) . '##' . $this->Html->cInt($project['Project']['project_rating_count'], false);
+?>

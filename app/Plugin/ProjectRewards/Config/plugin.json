@@ -1,0 +1,19 @@
+{
+	"name" : "Project Rewards",
+	"description" : "By enabling this, project owner can add reward for the backers according to the amount.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"settings" :"true",
+	"parent": "3.Plugins For All Modules.Children.Plugins For Pledge Module.Children",
+	"dependencies": {
+		"plugins" : {
+			"Projects" : "Projects"
+		}
+	},
+	"icon" : "trophy",
+	"disable" : 1,
+	"delete" : 1,
+	"module_id": "597",
+	"module_hash": "d1c5d62b8e6b9c5bf780493554905a55"
+}

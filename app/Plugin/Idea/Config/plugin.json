@@ -1,0 +1,18 @@
+{
+	"name" : "Idea Module",
+	"description" : "By enabling this, user can vote for the ideas posted by project owners, which helps the admin to get an idea whether to move the idea to funding or not.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"parent": "3.Plugins For All Modules.Children.Projects.Children",
+	"dependencies": {
+		"plugins" : {
+			"Projects" : "Projects"
+		}
+	},
+	"icon" : "star-o",
+	"disable" : 1,
+	"delete" : 1,
+	"module_id": "596",
+	"module_hash": "6b53da566379798f245b1b89c48b51fa"
+}

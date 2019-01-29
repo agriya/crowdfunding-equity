@@ -1,0 +1,18 @@
+{
+	"name" : "JOBS Act",
+	"description" : "By enabling this, the site will ask JOBS act related questions before investing in a project. Based on the investor information site will restrict the investor to invest to not more than allowed limit. Please refer <a href=\"http://en.wikipedia.org/wiki/Jumpstart_Our_Business_Startups_Act\" target=\"blank\">http://en.wikipedia.org/wiki/Jumpstart_Our_Business_Startups_Act</a>",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"parent": "3.Plugins For All Modules.Children.Plugins For Equity Module.Children",
+	"dependencies": {
+		"plugins" : {
+			"Equity" : "Equity"
+		}
+	},
+	"icon" : "jobs",
+	"disable" : 1,
+	"delete" : 1,
+	"module_id": "588",
+	"module_hash": "cb969f714a3afcafeb81fa243b6db687"
+}

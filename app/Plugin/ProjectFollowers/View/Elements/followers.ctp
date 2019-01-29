@@ -1,0 +1,1 @@
+<?php echo $this->requestAction(array('controller' => 'project_followers', 'action' => 'index', $project_id, 'type' => 'followers', 'admin' => false), array('return'));?>

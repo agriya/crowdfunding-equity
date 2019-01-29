@@ -1,0 +1,18 @@
+{
+	"name" : "SEIS Scheme",
+	"description" : "By enabling this, according to UK SEIS scheme site will ask some info about company to enterpreneur before start a project. Based on the information site will flag the company as SEIS/EIS. So investor can avail tax relief for projects with SEIS compliance. This will attract more investors. Please refer <a href=\"http://www.seis.co.uk\" target=\"blank\">http://www.seis.co.uk</a>",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"parent": "3.Plugins For All Modules.Children.Plugins For Equity Module.Children",
+	"dependencies": {
+		"plugins" : {
+			"Equity" : "Equity"
+		}
+	},
+	"icon" : "seis",
+	"disable" : 1,
+	"delete" : 1,
+	"module_id": "589",
+	"module_hash": "43e83341885cd825e675655abe00f2a7"
+}
