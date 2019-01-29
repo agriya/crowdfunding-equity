@@ -4,7 +4,7 @@ Crowdfunding Equity, part of Crowdfunding Suite (Pledge, Donate, Equity, Lend) i
 
 > This project is part of Agriya Open Source efforts. Crowdfunding was originally a paid script and was selling around 60000 Euros. It is now released under dual license ([OSL 3.0](https://www.agriya.com/resources) & [Commercial](https://www.agriya.com/products/equity-crowdfunding-script) for open source community benefits.
 
-[![banner_pledge](https://user-images.githubusercontent.com/4700341/51888284-a0328500-23bc-11e9-9b56-e86818d931d1.png)](https://www.agriya.com/products/equity-crowdfunding-script)
+[![equity_banner](https://user-images.githubusercontent.com/4700341/51891661-d0325600-23c5-11e9-9c4f-7306e137c6a9.png)](https://www.agriya.com/products/equity-crowdfunding-script)
 
 ## Demo / Download
 
@@ -46,7 +46,7 @@ Agriya Crowdfunding Suite is a complete fundraising marketplace platform that ca
 
 [Crowdfunding Equity](https://www.agriya.com/products/equity-crowdfunding-script) an equity fundraising script to its crowdfunding platform that ultimately fills the gap between the investors and company. It creates an online platform for equity fundraising with the framework of JOBS Act and SEIS Act.
 
-[![pledge_how_is_it_works](https://user-images.githubusercontent.com/4700341/51888299-a7f22980-23bc-11e9-90f2-e54b5d4f512d.png)](https://www.agriya.com/products/kickstarter-clone)
+[![equity_how_its_work](https://user-images.githubusercontent.com/4700341/51891663-d294b000-23c5-11e9-8cf3-cec0b8ec40fc.png)](https://www.agriya.com/products/equity-crowdfunding-script)
 
 ## Features
 
