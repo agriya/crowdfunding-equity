@@ -10,25 +10,9 @@ Crowdfunding Equity, part of Crowdfunding Suite (Pledge, Donate, Equity, Lend) i
 
 https://www.agriya.com/products/equity-crowdfunding-script
 
-Demo URL: http://crowdfunding-equity.demo.agriya.com/
-
-### User details
-
-Username: user
-
-Password: agriya
-
-### Admin User details
-
-Username: admin
-
-Password: agriya
-
-Need help for server installation / product customization, please [contact us](https://www.agriya.com/contact).
-
 ## Support
 
-Crowdfunding Equity is an open source equity-based fundraising project. Full commercial support (commercial license, customization, training, etc) are available through [crowdfunding  platform support](https://www.agriya.com/products/equity-crowdfunding-script)
+Crowdfunding Equity is an open source equity-based fundraising project. Full commercial support (commercial license, customization, training, etc) are available through [Crowdfunding Equity  Platform Support](https://www.agriya.com/products/equity-crowdfunding-script)
 
 Theming partner [CSSilize for design and HTML conversions](http://cssilize.com/)
 
@@ -105,7 +89,7 @@ It allows user to register themselves as investor, affiliate member, and project
 
 Our approach is similar to Magento. If anything is not clear, please [contact us](https://www.agriya.com/contact).
 
-All Submissions you make to crowdfunding-equity through GitHub are subject to the following terms and conditions:
+All Submissions you make to Crowdfunding Equity through GitHub are subject to the following terms and conditions:
 
 * You grant Agriya a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publicly perform, sublicense and distribute any feedback, ideas, code, or other information ("Submission") you submit through GitHub.
 * Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above.
