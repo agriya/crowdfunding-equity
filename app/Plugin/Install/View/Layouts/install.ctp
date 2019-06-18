@@ -50,7 +50,7 @@
     <div class="footer">
       <div class="footer-inner clearfix">
         <p>&copy;<?php echo date('Y'); ?> <a title="<?php echo Configure::read('site.name'); ?>" href="/"><?php echo Configure::read('site.name'); ?></a>. <?php echo __l('All rights reserved.'); ?></p>
-        <p class="powered clearfix"><span><?php echo $this->Html->link($this->Html->cText(sprintf(__l('Powered by %s'), Configure::read('site.name'));), '/', array('title' => sprintf(__l('Powered by %s'), Configure::read('site.name'));, 'escape' => false));?>,</span>
+        <p class="powered clearfix"><span><?php echo $this->Html->link($this->Html->cText(sprintf(__l('Powered by %s'), Configure::read('site.name'))), '/', array('title' => sprintf(__l('Powered by %s'), Configure::read('site.name')), 'escape' => false));?>,</span>
         <span><?php echo __l('made in'); ?></span><a class="company" title="<?php echo sprintf(__l('%s Web Development'), 'Agriya');?>" target="_blank" href="http://www.agriya.com/"><?php echo sprintf(__l('%s Web Development'), 'Agriya');?></a></p>
         <p><a class="cssilize" title="CSSilized by CSSilize, PSD to XHTML Conversion" target="_blank" href="http://www.cssilize.com/">CSSilized by CSSilize, PSD to XHTML Conversion</a></p>
       </div>
