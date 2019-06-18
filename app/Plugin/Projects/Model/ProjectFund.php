@@ -359,8 +359,8 @@ class ProjectFund extends AppModel
                 ));
                 $this->Project->updateProjectOnFund($projectFund, $project);
                 App::import('Model', $project['ProjectType']['name'] . '.' . $project['ProjectType']['name']);
-                $this->$project['ProjectType']['name'] = new $project['ProjectType']['name']();
-                $this->$project['ProjectType']['name']->updateProjectStatus($projectFund['ProjectFund']['id']);
+                $this->{ $project['ProjectType']['name'] } = new $project['ProjectType']['name']();
+                $this->{ $project['ProjectType']['name'] }->updateProjectStatus($projectFund['ProjectFund']['id']);
                 Cms::dispatchEvent('Model.IntegratedGoogleAnalytics.trackEcommerce', $this, array(
                     '_addTrans' => array(
                         'order_id' => 'ProjectFunding-' . $projectFund['ProjectFund']['id'],
