@@ -76,7 +76,7 @@ class Object {
 					if(is_array($value))
 					{						
 						$res_val = $this->check_recursive_array($value);																		
-						$res_val_array = split(",",$res_val);						
+						$res_val_array = str_split(",",$res_val);						
 						$config_name = '_' . $res_val_array[0];						
 						$is_allow_user = !empty($_SESSION['acl.' . $url['controller'] . '_' . $url['action'] . $config_name]) ? $_SESSION['acl.' . $url['controller'] . '_' . $url['action'] . $config_name] : '';
 						if (!empty($is_allow_user)) {
